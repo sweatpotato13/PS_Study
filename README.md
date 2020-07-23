@@ -37,3 +37,12 @@
 4. https://www.acmicpc.net/problem/2133
 5. https://www.acmicpc.net/problem/2407
 ```
+
+#### Week 5
+```
+1. https://www.acmicpc.net/problem/1260
+2. https://www.acmicpc.net/problem/9372
+3. https://www.acmicpc.net/problem/7562
+4. https://www.acmicpc.net/problem/12761
+5. https://www.acmicpc.net/problem/3184
+```
