@@ -47,7 +47,7 @@
 5. https://www.acmicpc.net/problem/3184
 ```
 
-#### Week 5
+#### Week 6
 ```
 1. https://www.acmicpc.net/problem/9613 
 2. https://www.acmicpc.net/problem/1564 
