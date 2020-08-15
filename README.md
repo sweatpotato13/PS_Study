@@ -55,3 +55,21 @@
 4. https://www.acmicpc.net/problem/11423 
 5. https://www.acmicpc.net/problem/10859 
 ```
+
+#### Week 7
+```
+1. https://www.acmicpc.net/problem/16945 
+2. https://www.acmicpc.net/problem/2548 
+3. https://www.acmicpc.net/problem/11502 
+4. https://www.acmicpc.net/problem/10819 
+5. https://www.acmicpc.net/problem/14613 
+```
+
+#### Week 8
+```
+1. https://www.acmicpc.net/problem/2877 
+2. https://www.acmicpc.net/problem/2608 
+3. https://www.acmicpc.net/problem/11286 
+4. https://www.acmicpc.net/problem/3107 
+5. https://www.acmicpc.net/problem/6568
+```
