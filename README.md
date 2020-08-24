@@ -73,3 +73,12 @@
 4. https://www.acmicpc.net/problem/3107 
 5. https://www.acmicpc.net/problem/6568
 ```
+
+#### Week 9
+```
+1. https://www.acmicpc.net/problem/18352
+2. https://www.acmicpc.net/problem/18243
+3. https://www.acmicpc.net/problem/1430 
+4. https://www.acmicpc.net/problem/1446
+5. https://www.acmicpc.net/problem/1916
+```
